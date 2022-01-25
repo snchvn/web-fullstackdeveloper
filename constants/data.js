@@ -85,8 +85,8 @@ const userData = {
   resumeUrl:
     "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
   socialLinks: {
-    linkedin: "https://linkedin.com/in/manuarora28",
-    github: "https://github.com/manuarora700",
+    linkedin: "https://linkedin.com/in/san-karunanithy",
+    github: "https://github.com/snchvn",
   },
 };
 
