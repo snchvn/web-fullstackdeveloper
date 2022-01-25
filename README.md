@@ -21,11 +21,9 @@ The website is built and deployed on [Vercel](https://vercel.com)
 - Clone the repository using `git clone https://github.com/manuarora700/simple-developer-portfolio-website.git`
 - Install all the modules by using `npm i` or `npm install` or `yarn`
 - Run the local development server by using `npm run dev` or `yarn dev`
-- Make the required edits and deploy to YOUR GitHub repo for CI/CD.
+- Make the required edits and deploy to your GitHub repo for CI/CD.
 
 # Deployment
-
-Deployment can be done in 3 easy steps.
 
 - Login to [Vercel](https://vercel.com) or signup for an account if you don't have one.
 - Create a `New Project` and select YOUR GitHub repository of the portfolio project.
