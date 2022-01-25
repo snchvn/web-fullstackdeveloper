@@ -19,9 +19,9 @@ export default function Footer() {
                   className="hover:bg-red-500 rounded-md px-2 py-1  hover:text-gray-50"
                   href="https://manuarora.in"
                 >
-                  Manu Arora and Kevin Clark.
+                  Manu Arora
                 </a>
-              </div>
+              </div> and Kevin Clark.
             </p>
           </div>
           <div className="space-x-4 flex flex-row items-center">
