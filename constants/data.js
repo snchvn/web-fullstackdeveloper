@@ -1,63 +1,42 @@
 const userData = {
-  githubUsername: "manuarora700",
-  name: "Manu Arora",
+  githubUsername: "snchvn",
+  name: "San Karunanithy",
   designation: "Full-Stack Developer",
   avatarUrl: "/avatar.png",
-  email: "manuarorawork@gmail.com",
-  phone: "+91 9587738861",
-  address: "Jaipur, Rajasthan, India.",
+  email: "san@san.is",
+  address: "London, UK.",
   projects: [
     {
-      title: "Tailwind Master Kit",
-      link: "https://tailwindmasterkit.com",
+      title: "Women4Climate Drupal Website",
+      link: "https://w4c.org",
       imgUrl: "/tmk.jpg",
     },
     {
-      title: "PlaceholderTech",
-      link: "https://placeholdertech.in",
+      title: "ESA Business Intelligence Drupal Website",
+      link: "https://business.esa.int",
       imgUrl: "/placeholdertech.png",
     },
     {
-      title: "Portfolio",
-      link: "https://manuarora.in",
+      title: "iLetpro React/Laravel app",
+      link: "https://iletpro.com",
       imgUrl: "/portfolio.png",
     },
     {
-      title: "CovidRescue",
+      title: "EDF Nuclear Symphony",
       link: "https://covidrescue.co.in",
       imgUrl: "/covidrescue.png",
-    },
-    {
-      title: "Algochurn",
-      link: "https://algochurn.com",
-      imgUrl: "/algochurn.png",
-    },
-    {
-      title: "Playground",
-      link: "https://play.placeholdertech.in",
-      imgUrl: "/playground.png",
-    },
-    {
-      title: "Feedmeback",
-      link: "https://feedmeback.vercel.app",
-      imgUrl: "/feedmeback.png",
-    },
-    {
-      title: "Devmedium",
-      link: "https://devmedium.vercel.app",
-      imgUrl: "/devmedium.png",
     },
   ],
   about: {
     title:
-      "I'm a software developer that loves building products and web applications that impact millions of lives",
+      "A full-stack software developer that loves to create impactful apps and websites",
     description: [
-      `I've been developing full-stack application since I was 10 years old. I didn't know what full-stack meant at that time because the term was not coined back then. I'm so out of content right now that I'm literally crying writing this text since lorem text is so 2012 now.`,
-      `After learning HTML and struggling with CSS, I came up with a brilliant idea of using bootstrap so that I don't have to style everything by myself and - for obvious reasons - if you knew bootstrap, you were cool.`,
-      `But now, I'm a legend. I've been coding in React, Angular, Vue, Svelte, Node.js, Express, Fastify, MongoDB, MySQL, Bootstrap, Tailwind, C, C++, C#, Rust, Haskell, Perl, PHP, Assembly, Logo and YouDontKnowShit programming language etc to name a few. Although I barely know the syntax (Psst, Stack overflow!), I consider myself a Ninja developer I'm laughing right now.`,
+      `Originally a mechanical engineer, I gave up algebra for pixels, diving head first into web development and digital marketing since 2013.`,
+      `My journey has lead me to founding my own web agency, becoming a digital marketing expert, and a head of web development. Throughout it all I've discovered that my true passion lies in the coding itself.`,
+      `Now, I'm an aspiring full-stack developer, upskilling in React, JavaScript, Docker and a host of cool new associated technologies.`,
     ],
-    currentProject: "Tailwind Master Kit",
-    currentProjectUrl: "https://tailwindmasterkit.com",
+    currentProject: "This website!",
+    currentProjectUrl: "https://san.is",
   },
   experience: [
     {
